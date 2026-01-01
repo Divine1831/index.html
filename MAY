@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OKOH FAVOUR | Mechanical Engineer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <nav>
+      <h1>OKOH FAVOUR</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#P">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <div class="hero-text">
+      <h2>Innovating Through Engineering</h2>
+      <p>
+        I'm OKOH FAVOUR, a Mechanical Engineer with a passion for design, automation, and sustainable systems.
+      </p>
+      <a href="#Project" class="btn">See my work</a>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I specialize in designing efficient mechanical systems, improving industrial processes, and applying CAD technologies
+      to solve real-world engineering challenges.
+      With over 8 years of experience, I combine creativity, precision, and teamwork to deliver high-performance solutions.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Core Skills</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <h3>3D CAD Modeling</h3>
+        <p>Proficient in AutoCAD, SolidWorks, and Fusion 360 for advanced design and prototyping.</p>
+      </div>
+
+      <div class="project-card">
+        <h3>Automation and Control</h3>
+        <p>Experience with PLCs, robotics integration, and process optimization.</p>
+      </div>
+
+      <div class="project-card">
+        <h3>Structural Design</h3>
+        <p>Designing load-bearing components and stress testing mechanical assemblies.</p>
+      </div>
+    </div>
+  </section>
+<link rel="styl.css" href="style.css">
+  <section id="P">
+    <h2>Engineering Projects</h2>
+    <div class="project-grid">
+
+      <div class="project-card">
+        <h3>Automated Conveyor System</h3>
+        <p>Designed a motion-controlled conveyor for packaging with a 25% efficiency increase.</p>
+      </div>
+
+      <div class="project-card">
+        <h3>Solar Water Pump Prototype</h3>
+        <p>Developed a renewable energy system that powers rural irrigation pumps efficiently.</p>
+      </div>
+
+      <div class="project-card">
+        <h3>Lightweight Drone Frame</h3>
+        <p>Modeled and tested a carbon-fiber drone frame, reducing weight by 30%</p>
+      </div>
+
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Let's collaborate on your next engineering project.</p>
+    <a href="mailto:alex.johnson.engineer@example.com" class="btn">Get In Touch</a>
+  </section>
+
+  <footer>
+    <p>© 2025 OKOH FAVOUR. All rights reserved.</p>
+  </footer>
+
+</body>
+</html> 
